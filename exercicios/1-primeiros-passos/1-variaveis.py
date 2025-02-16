@@ -1,4 +1,4 @@
-# Convenções para nomear as variáveis:
+  f# Convenções para nomear as variáveis:
 # - Iniciar sempre com letra minúscula;
 # - O nome pode ser composto por letras, algarismos e underlines;
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
@@ -9,3 +9,5 @@
 
 
 # Declare uma variável do tipo booleano
+false
+true
